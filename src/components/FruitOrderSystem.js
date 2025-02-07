@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { ShoppingBasket, Store, ClipboardList, ShoppingCart } from 'lucide-react';
 

@@ -1,5 +1,9 @@
 import FruitOrderSystem from '../components/FruitOrderSystem';
 
 export default function Home() {
-  return <FruitOrderSystem />;
+  return (
+    <main>
+      <FruitOrderSystem />
+    </main>
+  );
 }
